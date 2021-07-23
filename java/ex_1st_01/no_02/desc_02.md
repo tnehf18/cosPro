@@ -32,9 +32,9 @@ class Solution {
     // The following is main method to output testcase.
     public static void main(String[] args) {
         Solution sol = new Solution();
+        
         int n1 = 3;
         int ret1 = sol.solution(n1);
-
         
         // Press Run button to receive output. 
         System.out.println("Solution: return value of the method is " + ret1 + " .");
