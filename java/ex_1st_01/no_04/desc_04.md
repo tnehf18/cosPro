@@ -12,6 +12,7 @@
 import java.util.*;
 
 class Solution {
+
     public int[] solution(int[] arrA, int[] arrB) {
         int arrA_idx = 0, arrB_idx = 0;
         int arrA_len = arrA.length;
@@ -41,6 +42,7 @@ class Solution {
         // Press Run button to receive output. 
         System.out.println("Solution: return value of the method is " + Arrays.toString(ret) + " .");
     }
+    
 }
 ```
 
