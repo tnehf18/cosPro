@@ -32,15 +32,15 @@ import java.util.Iterator;
 //DeliveryStore interface, Food and PizzaStore class are written as Inner Class. Read the code below and fill in the blank.
 class Solution {
 
-    interface DeliveryStore{
+    interface DeliveryStore {
         public void setOrderList(String[] orderList);
         public int getTotalPrice();
     }
     
-    class Food{
+    class Food {
         public String name;
         public int price;
-        public Food(String name, int price){
+        public Food(String name, int price) {
             this.name = name;
             this.price = price;
         }
@@ -50,7 +50,7 @@ class Solution {
         private ArrayList<Food> menuList;
         private ArrayList<String> orderList;
         
-        public PizzaStore(){
+        public PizzaStore() {
             //init menuList
             menuList = new ArrayList<Food>();
             String[] menuNames = {"Cheese", "Potato", "Shrimp", "Pineapple", "Meatball"};
@@ -62,12 +62,12 @@ class Solution {
             orderList = new ArrayList<String>();
         }
         
-        public @@@{
+        public @@@ {
             for(int i = 0; i < orderList.length; i++)
                 this.orderList.add(orderList[i]);
         }
         
-        public @@@{
+        public @@@ {
             int totalPrice = 0;
             Iterator<String> iter = orderList.iterator();
             while (iter.hasNext()) {
@@ -92,6 +92,7 @@ class Solution {
     // The following is main method to output testcase.
     public static void main(String[] args) {
         Solution sol = new Solution();
+        
         String[] orderList = {"Cheese", "Pineapple", "Meatball"};
         int ret = sol.solution(orderList);
         
