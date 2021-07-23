@@ -10,6 +10,7 @@
 import java.util.*;
 
 class Solution {
+
     public int[] solution(int N, int[] votes) {
         int voteCounter[] = new int[11];
         for (int i = 0; i < votes.length; i++) {
@@ -54,6 +55,7 @@ class Solution {
         // Press Run button to receive output. 
         System.out.println("Solution: return value of the method is " + Arrays.toString(ret2) + " .");
     }
+    
 }
 ```
 
