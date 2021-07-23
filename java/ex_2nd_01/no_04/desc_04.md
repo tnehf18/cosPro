@@ -95,3 +95,9 @@ class Solution {
 * 가장 많이 들어있는 숫자 : 3 (5개)
 
 3이 1보다 2.5배 많이 들어있으며, 소수 부분을 버리고 2를 return 하면 됩니다.
+
+---
+
+### → 정답 확인
+
+### [→ 다음 문제](https://github.com/tnehf18/cosPro/blob/main/java/ex_2nd_01/no_05/desc_05.md "cosPro 2급 Java 1차 5번 문제")
