@@ -11,6 +11,37 @@
 
 손님에게 거슬러줘야 하는 금액 money가 매개변수로 주어질 때, 거슬러 주는 동전과 지폐 개수합의 최솟값을 return 하도록 solution 메소드를 작성하려 합니다. 빈칸을 채워 전체 코드를 완성해주세요.
 
+### 초기 코드
+
+```
+class Solution {
+
+    public int solution(int money) {
+        int coin[] = {10, 50, 100, 500, 1000, 5000, 10000, 50000};
+        int counter = 0;
+        int idx = coin.length - 1;
+        while (money > 0){
+            counter += @@@;
+            money %= @@@;
+            idx -= @@@;
+        }
+        return counter;
+    }
+
+    // 아래는 테스트케이스 출력을 해보기 위한 main 메소드입니다.
+    public static void main(String[] args) {
+        Solution sol = new Solution();
+        
+        int money = 2760;
+        int ret = sol.solution(money);
+
+        // [실행] 버튼을 누르면 출력 값을 볼 수 있습니다.
+        System.out.println("solution 메소드의 반환 값은 " + ret + " 입니다.");
+    }
+    
+}
+```
+
 ---
 
 #### 매개변수 설명
