@@ -31,6 +31,7 @@ class Solution {
     // The following is main method to output testcase.
     public static void main(String[] args) {
         Solution sol = new Solution();
+        
         String pos = "A7";
         int ret = sol.solution(pos);
 
