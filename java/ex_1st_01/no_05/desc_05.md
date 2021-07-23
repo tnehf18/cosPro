@@ -4,6 +4,59 @@
 
 주어진 solution 메소드는 후보의 수 N과 투표를 진행한 결과가 담긴 배열 votes가 매개변수로 주어졌을 때, 가장 많은 표를 받은 후보의 번호를 return 하는 메소드입니다. 그러나, 코드 일부분이 잘못되어있기 때문에, 몇몇 입력에 대해서는 올바르게 동작하지 않습니다. 주어진 코드에서 _**한 줄**_만 변경해서 모든 입력에 대해 올바르게 동작하도록 수정하세요.
 
+### 초기 코드
+
+```
+import java.util.*;
+
+class Solution {
+    public int[] solution(int N, int[] votes) {
+        int voteCounter[] = new int[11];
+        for (int i = 0; i < votes.length; i++) {
+            voteCounter[votes[i]] += 1;
+        }
+        int maxVal = 0;
+        int cnt = 0;
+        for (int i = 1; i <= N; i++) {
+            if (maxVal < voteCounter[i]) {
+                maxVal = voteCounter[i];
+                cnt = 1;
+            }
+            else if(maxVal == voteCounter[i]){
+                cnt += 1;
+            }
+        }
+        int answer[] = new int[cnt];
+        for (int i = 1, idx = 0; i <= N; i++){
+            if (voteCounter[i] == maxVal) {
+                answer[idx] = voteCounter[i];
+                idx += 1;
+            }
+        }
+        return answer;
+    }
+    
+    // The following is main method to output testcase. The main method is correct and you shall correct solution method.
+    public static void main(String[] args) {
+        Solution sol = new Solution();
+        int N1 = 5;
+        int[] votes1 = {1,5,4,3,2,5,2,5,5,4};
+        int[] ret1 = sol.solution(N1, votes1);
+ 
+        // Press Run button to receive output. 
+        System.out.println("Solution: return value of the method is " + Arrays.toString(ret1) + " .");
+        
+
+        int N2 = 4;
+        int[] votes2 = {1, 3, 2, 3, 2};
+        int[] ret2 = sol.solution(N2, votes2);
+ 
+        // Press Run button to receive output. 
+        System.out.println("Solution: return value of the method is " + Arrays.toString(ret2) + " .");
+    }
+}
+```
+
 ---
 
 #### 매개변수 설명
