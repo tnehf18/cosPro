@@ -21,7 +21,7 @@
 ```
 class Solution {
 
-    public String func_a(String str, int len){
+    public String func_a(String str, int len) {
         String padZero = "";
         int padSize = @@@;
         for(int i = 0; i < padSize; i++)
@@ -44,6 +44,7 @@ class Solution {
     // The following is main method to output testcase.
     public static void main(String[] args) {
         Solution sol = new Solution();
+        
         String binaryA = "10010";
         String binaryB = "110";
         int ret = sol.solution(binaryA, binaryB);
