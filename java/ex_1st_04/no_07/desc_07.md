@@ -38,7 +38,7 @@
 
 몬스터의 공력력 monsterAttackPoint, 전사의 공격력 warriorAttackPoint, 힐러의 회복치 healingPoint 매개변수로 주어질 때, 각 유닛이 행동을 마친 후 몬스터, 전사, 힐러의 남은 체력을 순서대로 배열에 담아 return 하도록 solution 메소드를 작성하려 합니다. 위 클래스 구조를 참고하여 주어진 코드의 빈칸을 적절히 채워 전체 코드를 완성해주세요.
 
-# 초기 코드
+### 초기 코드
 
 ```
 import java.util.Arrays;
