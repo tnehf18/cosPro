@@ -79,3 +79,9 @@ class Solution {
 예시 #2
 
 96900원의 5%는 4845원 입니다. 96900 - 4845 = 92055 입니다.
+
+---
+
+### → 정답 확인
+
+### [→ 다음 문제](https://github.com/tnehf18/cosPro/blob/main/java/ex_2nd_01/no_03/desc_03.md "cosPro 2급 Java 1차 3번 문제")
