@@ -80,3 +80,9 @@ class Solution {
 * 2월 2일은 1월 1일로부터 32일만큼 지난 날입니다.
 * 32 - 1 = 31입니다.
 * 따라서 1월 2일과 2월 2일은 31일만큼 떨어져 있습니다.
+
+---
+
+### → 정답 확인
+
+### [→ 다음 문제](https://github.com/tnehf18/cosPro/blob/main/java/ex_2nd_01/no_04/desc_04.md "cosPro 2급 Java 1차 4번 문제")
