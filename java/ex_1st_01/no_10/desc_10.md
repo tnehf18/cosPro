@@ -16,6 +16,7 @@
 
 ```
 class Solution {
+
     class Pair{
         public int firstNum;
         public int secondNum;
@@ -38,6 +39,7 @@ class Solution {
         }
         return -1;
     }
+    
     public Pair func_c(String exp, int idx){
         Pair ret = new Pair();
         ret.firstNum = Integer.parseInt(exp.substring(0, idx));
@@ -61,6 +63,7 @@ class Solution {
         // Press Run button to receive output. 
         System.out.println("Solution: return value of the method is " + ret + " .");
     }
+    
 }
 ```
 
