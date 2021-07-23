@@ -15,6 +15,38 @@
 위의 예에서 대각선상에 존재하는 수의 합은 15입니다.
 격자의 크기 n이 주어질 때 n-소용돌이 수의 대각선상에 존재하는 수들의 합을 return 하도록 solution 메소드를 완성해주세요.
 
+### 초기 코드
+
+```
+// You may use import as below.
+//import java.util.*;
+
+class Solution {
+    public int solution(int n) {
+        // Write code here.
+        int answer = 0;
+        return answer;
+    }
+
+    // The following is main method to output testcase.
+    public static void main(String[] args) {
+        Solution sol = new Solution();
+        int n1 = 3;
+        int ret1 = sol.solution(n1);
+
+        
+        // Press Run button to receive output. 
+        System.out.println("Solution: return value of the method is " + ret1 + " .");
+        
+        int n2 = 2;
+        int ret2 = sol.solution(n2);
+        
+        // Press Run button to receive output. 
+        System.out.println("Solution: return value of the method is " + ret2 + " .");
+    }
+}
+```
+
 ---
 
 #### 매개변수 설명
