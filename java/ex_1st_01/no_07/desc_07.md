@@ -14,6 +14,7 @@
 
 ```
 class Solution{
+
     int solution(int[] prices){
         int INF = 1000000001;
         int tmp = INF;
@@ -41,6 +42,7 @@ class Solution{
         // Press Run button to receive output. 
         System.out.println("Solution: return value of the method is " + ret2 + " .");
     }
+    
 }
 ```
 
