@@ -16,6 +16,43 @@
 
 두 2진수 문자열 binaryA와 binaryB가 매개변수로 주어질 때, 두 2진수의 해밍 거리를 return 하도록 solution 메소드를 작성했습니다. 이때, 위 구조를 참고하여 중복되는 부분은 func_a라는 메소드로 작성했습니다. 코드가 올바르게 동작할 수 있도록 빈칸을 알맞게 채워 전체 코드를 완성해주세요.
 
+### 초기 코드
+
+```
+class Solution {
+    public String func_a(String str, int len){
+        String padZero = "";
+        int padSize = @@@;
+        for(int i = 0; i < padSize; i++)
+            padZero += "0";
+        return padZero + str;
+    }
+    
+    public int solution(String binaryA, String binaryB) {
+        int maxLength = Math.max(binaryA.length(), binaryB.length());
+        binaryA = func_a(binaryA, maxLength);
+        binaryB = func_a(binaryB, maxLength);
+        
+        int hammingDistance = 0;
+        for(int i = 0; i < maxLength; i++)
+            if(@@@)
+                hammingDistance += 1;
+        return hammingDistance;
+    }
+
+    // The following is main method to output testcase.
+    public static void main(String[] args) {
+        Solution sol = new Solution();
+        String binaryA = "10010";
+        String binaryB = "110";
+        int ret = sol.solution(binaryA, binaryB);
+        
+        // Press Run button to receive output. 
+        System.out.println("Solution: return value of the method is " + ret + " .");
+    }
+}
+```
+
 ---
 
 #### 매개변수 설명
