@@ -45,6 +45,7 @@ class Solution {
         // Press Run button to receive output. 
         System.out.println("Solution: return value of the method is " + ret2 + " .");
     }
+    
 }
 ```
 
