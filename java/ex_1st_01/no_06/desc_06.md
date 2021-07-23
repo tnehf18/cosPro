@@ -15,6 +15,42 @@ A와 B가 계단 게임을 완료한 후에, A가 계단 위 몇 번째 칸에 �
 
 A와 B가 낸 가위바위보 기록이 순서대로 들어있는 배열 recordA와 recordB가 매개변수로 주어질 때, 게임을 마친 후의 A의 위치를 return 하도록 solution 메소드를 작성했습니다. 그러나, 코드 일부분이 잘못되어있기 때문에, 몇몇 입력에 대해서는 올바르게 동작하지 않습니다. 주어진 코드에서 _**한 줄**_만 변경해서 모든 입력에 대해 올바르게 동작하도록 수정하세요.
 
+### 초기 코드
+
+```
+class Solution{
+    public int func(int record){
+        if(record == 0) return 1;
+        else if(record == 1) return 2;
+        return 0;
+    }
+
+    public int solution(int[] recordA, int[] recordB){
+        int cnt = 0;
+        for(int i = 0; i < recordA.length; i++){
+            if(recordA[i] == recordB[i])
+                continue;
+            else if(recordA[i] == func(recordB[i]))
+                cnt = cnt + 3;
+            else
+                cnt = cnt - 1;
+        }
+        return cnt;
+    }
+
+    // The following is main method to output testcase. The main method is correct and you shall correct solution method.
+    public static void main(String[] args) {
+        Solution sol = new Solution();
+        int[] recordA = {2,0,0,0,0,0,1,1,0,0};
+        int[] recordB = {0,0,0,0,2,2,0,2,2,2};
+        int ret = sol.solution(recordA, recordB);
+
+        // Press Run button to receive output. 
+        System.out.println("Solution: return value of the method is " + ret + " .");
+    }
+}
+```
+
 ---
 
 #### 매개변수 설명
