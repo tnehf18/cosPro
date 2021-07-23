@@ -63,3 +63,9 @@ class Solution {
 
 #### 예시 설명
 [1, 4, 2, 3]을 뒤에서부터 읽으면 3, 2, 4, 1입니다. 따라서 [1, 4, 2, 3]의 순서를 뒤집은 결과는 [3, 2, 4, 1]이 됩니다.
+
+---
+
+### → 정답 확인
+
+### [→ 다음 문제](https://github.com/tnehf18/cosPro/blob/main/java/ex_2nd_01/no_06/desc_06.md "cosPro 2급 Java 1차 6번 문제")
