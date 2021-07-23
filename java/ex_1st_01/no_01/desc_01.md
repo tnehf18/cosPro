@@ -4,6 +4,33 @@
 
 0을 포함하지 않은 자연수 num이 매개변수로 주어질 때, 이 수에 1을 더한 수를 return 하도록 solution 메소드를 완성해주세요.
 
+### 초기 코드
+
+```
+// You may use import as below.
+//import java.util.*;
+
+class Solution {
+
+    public long solution(long num) {
+        // Write code here.
+        long answer = 0;
+        return answer;
+    }
+
+    // The following is main method to output testcase.
+    public static void main(String[] args) {
+        Solution sol = new Solution();
+        long num = 9949999;
+        long ret = sol.solution(num);
+
+        // Press Run button to receive output. 
+        System.out.println("Solution: return value of the method is " + ret + " .");
+    }
+    
+}
+```
+
 ---
 
 #### 매개변수 설명
