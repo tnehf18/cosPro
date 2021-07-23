@@ -18,17 +18,17 @@ A와 B가 낸 가위바위보 기록이 순서대로 들어있는 배열 recordA
 ### 초기 코드
 
 ```
-class Solution{
+class Solution {
 
-    public int func(int record){
+    public int func(int record) {
         if(record == 0) return 1;
         else if(record == 1) return 2;
         return 0;
     }
 
-    public int solution(int[] recordA, int[] recordB){
+    public int solution(int[] recordA, int[] recordB) {
         int cnt = 0;
-        for(int i = 0; i < recordA.length; i++){
+        for(int i = 0; i < recordA.length; i++) {
             if(recordA[i] == recordB[i])
                 continue;
             else if(recordA[i] == func(recordB[i]))
