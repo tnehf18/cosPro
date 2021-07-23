@@ -10,6 +10,40 @@
 
 연속된 n 일 동안의 주식 가격이 순서대로 들어있는 배열 prices가 매개변수로 주어질 때, 주식을 규칙에 맞게 한 번만 사고팔았을 때 얻을 수 있는 최대 수익을 return 하도록 solution 메소드를 작성했습니다. 그러나, 코드 일부분이 잘못되어있기 때문에, 코드가 올바르게 동작하지 않습니다. 주어진 코드에서 _**한 줄**_만 변경해서 모든 입력에 대해 올바르게 동작하도록 수정해주세요.
 
+### 초기 코드
+
+```
+class Solution{
+    int solution(int[] prices){
+        int INF = 1000000001;
+        int tmp = INF;
+        int answer = -INF;
+        for(int price : prices){
+            if(tmp != INF)
+                answer = Math.max(answer, tmp - price);
+            tmp = Math.min(tmp, price);
+        }
+        return answer;
+    }
+
+    // The following is main method to output testcase. The main method is correct and you shall correct solution method.
+    public static void main(String[] args) {
+        Solution sol = new Solution();
+        int[] prices1 = {1, 2, 3};
+        int ret1 = sol.solution(prices1);
+        
+        // Press Run button to receive output. 
+        System.out.println("Solution: return value of the method is " + ret1 + " .");
+        
+        int[] prices2 = {3, 1};
+        int ret2 = sol.solution(prices2);
+        
+        // Press Run button to receive output. 
+        System.out.println("Solution: return value of the method is " + ret2 + " .");
+    }
+}
+```
+
 ---
 
 #### 매개변수 설명
