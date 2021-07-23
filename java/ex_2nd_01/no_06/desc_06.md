@@ -19,7 +19,7 @@ class Solution {
             int current = i;
             int temp = count;
             while (current != 0) {
-                if (@@@){
+                if (@@@) {
                     count++;
                     System.out.print("pair");
                 }
@@ -73,3 +73,9 @@ number가 solution 메소드의 매개변수로 주어집니다.
 23, 26, 29 : 각각 한 번 (+3)
 30, 31, 32, 33, ..., 38, 39 : 십의 자리 열 번 + 일의 자리 세 번 (+13)
 따라서, 3 + 3 + 3 + 13 = 22번의 박수를 칩니다.
+
+---
+
+### → 정답 확인
+
+### [→ 다음 문제](https://github.com/tnehf18/cosPro/blob/main/java/ex_2nd_01/no_07/desc_07.md "cosPro 2급 Java 1차 7번 문제")
