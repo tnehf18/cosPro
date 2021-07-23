@@ -31,12 +31,13 @@
 ```
 //Book 인터페이스와 ComicBook, Novel 클래스는 Inner Class로 작성되어있습니다. 아래 코드를 잘 읽고 빈칸을 채워주세요.
 class Solution {
-    interface Book{
+
+    interface Book {
         public int getRentalPrice(int day);
     }
     
     class ComicBook @@@ {
-        @@@{
+        @@@ {
             int cost = 500;
             day -= 2;
             if(day > 0)
@@ -46,7 +47,7 @@ class Solution {
     }
     
     class Novel @@@ {
-        @@@{
+        @@@ {
             int cost = 1000;
             day -= 3;
             if(day > 0)
@@ -58,7 +59,7 @@ class Solution {
     public int solution(String[] bookTypes, int day) {
         Book[] books = new Book[50];
         int length = bookTypes.length;
-        for(int i = 0; i < length; ++i){
+        for(int i = 0; i < length; ++i) {
             if(bookTypes[i].equals("comic"))
                 books[i] = new ComicBook();
             else if(bookTypes[i].equals("novel"))
@@ -74,6 +75,7 @@ class Solution {
     // 아래는 테스트케이스 출력을 해보기 위한 main 메소드입니다.
     public static void main(String[] args) {
         Solution sol = new Solution();
+        
         String[] bookTypes = {"comic", "comic", "novel"};
         int day = 4;
         int ret = sol.solution(bookTypes, day);
