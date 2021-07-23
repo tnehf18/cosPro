@@ -14,6 +14,31 @@
 
 나이트의 위치 pos가 매개변수로 주어질 때, 나이트를 한 번 움직여서 이동할 수 있는 칸은 몇개인지 return 하도록 solution 메소드를 완성해주세요.
 
+### 초기 코드
+
+```
+// You may use import as below.
+//import java.util.*;
+
+class Solution {
+    public int solution(String pos) {
+        // Write code here.
+        int answer = 0;
+        return answer;
+    }
+
+    // The following is main method to output testcase.
+    public static void main(String[] args) {
+        Solution sol = new Solution();
+        String pos = "A7";
+        int ret = sol.solution(pos);
+
+        // Press Run button to receive output. 
+        System.out.println("Solution: return value of the method is " + ret + " .");
+    }
+}
+```
+
 ---
 
 #### 매개변수 설명
