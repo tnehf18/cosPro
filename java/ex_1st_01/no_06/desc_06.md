@@ -42,6 +42,7 @@ class Solution {
     // The following is main method to output testcase. The main method is correct and you shall correct solution method.
     public static void main(String[] args) {
         Solution sol = new Solution();
+        
         int[] recordA = {2,0,0,0,0,0,1,1,0,0};
         int[] recordB = {0,0,0,0,2,2,0,2,2,2};
         int ret = sol.solution(recordA, recordB);
