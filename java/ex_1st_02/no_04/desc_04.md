@@ -4,6 +4,35 @@
 
 자연수가 들어있는 배열 arr가 매개변수로 주어질 때, 이 배열에서 합이 K의 배수가 되도록 서로 다른 숫자 세개를 고르는 방법의 가짓수를 return 하도록 solution 메소드를 완성해주세요.
 
+### 초기 코드
+
+```
+// 다음과 같이 import를 사용할 수 있습니다.
+import java.util.*;
+
+class Solution {
+
+    public int solution(int[] arr, int K) {
+        // 여기에 코드를 작성해주세요.
+        int answer = 0;
+        return answer;
+    }
+
+    // 아래는 테스트케이스 출력을 해보기 위한 main 메소드입니다.
+    public static void main(String[] args) {
+        Solution sol = new Solution();
+        int[] arr = {1, 2, 3, 4, 5};
+        int K = 3;
+        int ret = sol.solution(arr, K);
+
+
+        // [실행] 버튼을 누르면 출력 값을 볼 수 있습니다.
+        System.out.println("solution 메소드의 반환 값은 " + ret + " 입니다.");
+    }
+    
+}
+```
+
 ---
 
 #### 매개변수 설명
