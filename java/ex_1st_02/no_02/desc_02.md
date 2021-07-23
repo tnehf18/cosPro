@@ -17,7 +17,7 @@ A 지하철역의 오늘 하루 지하철 도착 시각이 순서대로 들어�
 ```
 class Solution {
 
-    public int func_a(String times){
+    public int func_a(String times) {
         int hour = Integer.parseInt(times.substring(0, 2));
         int minute = Integer.parseInt(times.substring(3));
         return hour*60 + minute;
@@ -27,9 +27,9 @@ class Solution {
         int currentMinute = func_a(@@@);
         int INF = 1000000000;
         int answer = INF;
-        for(int i = 0; i < subwayTimes.length; ++i){
+        for(int i = 0; i < subwayTimes.length; ++i) {
             int subwayMinute = func_a(@@@);
-            if(@@@){
+            if(@@@) {
                 answer = subwayMinute - currentMinute;
                 break;
             }
@@ -42,6 +42,7 @@ class Solution {
     // 아래는 테스트케이스 출력을 해보기 위한 main 메소드입니다.
     public static void main(String[] args) {
         Solution sol = new Solution();
+        
         String[] subwayTimes1 = {"05:31", "11:59", "13:30", "23:32"};
         String currentTime1 = "12:00";
         int ret1 = sol.solution(subwayTimes1, currentTime1);
