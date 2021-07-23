@@ -22,6 +22,7 @@
 //import java.util.*;
 
 class Solution {
+
     public int solution(int n) {
         // Write code here.
         int answer = 0;
