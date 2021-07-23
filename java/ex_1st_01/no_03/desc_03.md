@@ -21,6 +21,7 @@
 //import java.util.*;
 
 class Solution {
+
     public int solution(String pos) {
         // Write code here.
         int answer = 0;
@@ -36,6 +37,7 @@ class Solution {
         // Press Run button to receive output. 
         System.out.println("Solution: return value of the method is " + ret + " .");
     }
+    
 }
 ```
 
