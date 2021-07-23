@@ -35,6 +35,7 @@ class Solution {
     // The following is main method to output testcase.
     public static void main(String[] args) {
         Solution sol = new Solution();
+        
         int[] arrA = {-2, 3, 5, 9};
         int[] arrB = {0, 1, 5};
         int[] ret = sol.solution(arrA, arrB);
