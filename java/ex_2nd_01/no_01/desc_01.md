@@ -62,3 +62,10 @@ class Solution {
 * "M"과 "XXL"을 신청한 학생은 없습니다.
 
 따라서 순서대로 [1, 2, 0, 2, 1, 0]을 배열에 담아 return 하면 됩니다.
+
+
+---
+
+### → 정답 확인
+
+### [→ 다음 문제](https://github.com/tnehf18/cosPro/blob/main/java/ex_2nd_01/no_02/desc_02.md "cosPro 2급 Java 1차 2번 문제")
