@@ -7,6 +7,34 @@
 
 로봇에게 내린 명령이 순서대로 들어있는 문자열 commands가 매개변수로 주어질 때, 주어진 명령을 모두 수행한 후의 로봇 위치를 return 하도록 solution 메소드를 완성해주세요.
 
+### 초기 코드
+
+```
+// 다음과 같이 import를 사용할 수 있습니다.
+import java.util.*;
+
+class Solution {
+
+    public int[] solution(String commands) {
+        // 여기에 코드를 작성해주세요.
+        int[] answer = {};
+        return answer;
+    }
+
+    // 아래는 테스트케이스 출력을 해보기 위한 main 메소드입니다.
+    public static void main(String[] args) {
+        Solution sol = new Solution();
+        
+        String commands = "URDDL";
+        int[] ret = sol.solution(commands);
+
+        // [실행] 버튼을 누르면 출력 값을 볼 수 있습니다.
+        System.out.println("solution 메소드의 반환 값은 " + Arrays.toString(ret) + " 입니다.");
+    }
+    
+}
+```
+
 ---
 
 #### 매개변수 설명
