@@ -31,6 +31,7 @@ import java.util.Iterator;
 
 //DeliveryStore interface, Food and PizzaStore class are written as Inner Class. Read the code below and fill in the blank.
 class Solution {
+
     interface DeliveryStore{
         public void setOrderList(String[] orderList);
         public int getTotalPrice();
