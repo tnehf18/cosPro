@@ -28,7 +28,7 @@ class Solution {
             }
         }
         int answer[] = new int[cnt];
-        for (int i = 1, idx = 0; i <= N; i++){
+        for (int i = 1, idx = 0; i <= N; i++) {
             if (voteCounter[i] == maxVal) {
                 answer[idx] = voteCounter[i];
                 idx += 1;
@@ -40,6 +40,7 @@ class Solution {
     // The following is main method to output testcase. The main method is correct and you shall correct solution method.
     public static void main(String[] args) {
         Solution sol = new Solution();
+        
         int N1 = 5;
         int[] votes1 = {1,5,4,3,2,5,2,5,5,4};
         int[] ret1 = sol.solution(N1, votes1);
