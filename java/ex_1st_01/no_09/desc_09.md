@@ -20,6 +20,7 @@
 
 ```
 class Solution {
+
     public String func_a(String str, int len){
         String padZero = "";
         int padSize = @@@;
@@ -50,6 +51,7 @@ class Solution {
         // Press Run button to receive output. 
         System.out.println("Solution: return value of the method is " + ret + " .");
     }
+    
 }
 ```
 
