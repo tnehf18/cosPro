@@ -20,7 +20,7 @@ class Solution {
         int coin[] = {10, 50, 100, 500, 1000, 5000, 10000, 50000};
         int counter = 0;
         int idx = coin.length - 1;
-        while (money > 0){
+        while (money > 0) {
             counter += @@@;
             money %= @@@;
             idx -= @@@;
