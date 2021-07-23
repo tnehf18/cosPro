@@ -19,6 +19,7 @@ A와 B가 낸 가위바위보 기록이 순서대로 들어있는 배열 recordA
 
 ```
 class Solution{
+
     public int func(int record){
         if(record == 0) return 1;
         else if(record == 1) return 2;
@@ -48,6 +49,7 @@ class Solution{
         // Press Run button to receive output. 
         System.out.println("Solution: return value of the method is " + ret + " .");
     }
+    
 }
 ```
 
