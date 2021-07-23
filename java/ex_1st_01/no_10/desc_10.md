@@ -22,7 +22,7 @@ class Solution {
         public int secondNum;
     }
     
-    public int func_a(int numA, int numB, char exp){
+    public int func_a(int numA, int numB, char exp) {
         if (exp == '+')
             return numA + numB;
         else if (exp == '-')
@@ -31,8 +31,8 @@ class Solution {
             return numA * numB;
     }
     
-    public int func_b(String exp){
-        for(int i = 0; i < exp.length(); i++){
+    public int func_b(String exp) {
+        for(int i = 0; i < exp.length(); i++) {
             char e = exp.charAt(i);
             if(e == '+' || e == '-' || e == '*')
                 return i;
@@ -40,7 +40,7 @@ class Solution {
         return -1;
     }
     
-    public Pair func_c(String exp, int idx){
+    public Pair func_c(String exp, int idx) {
         Pair ret = new Pair();
         ret.firstNum = Integer.parseInt(exp.substring(0, idx));
         ret.secondNum = Integer.parseInt(exp.substring(idx + 1));
@@ -57,6 +57,7 @@ class Solution {
     // The following is main method to output testcase.
     public static void main(String[] args) {
         Solution sol = new Solution();
+        
         String expression = "123+12";
         int ret = sol.solution(expression);
 
