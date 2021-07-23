@@ -16,11 +16,13 @@ A 지하철역의 오늘 하루 지하철 도착 시각이 순서대로 들어�
 
 ```
 class Solution {
+
     public int func_a(String times){
         int hour = Integer.parseInt(times.substring(0, 2));
         int minute = Integer.parseInt(times.substring(3));
         return hour*60 + minute;
     }
+    
     public int solution(String[] subwayTimes, String currentTime) {
         int currentMinute = func_a(@@@);
         int INF = 1000000000;
@@ -54,6 +56,7 @@ class Solution {
         // [실행] 버튼을 누르면 출력 값을 볼 수 있습니다.
         System.out.println("solution 메소드의 반환 값은 " + ret2 + " 입니다.");
     }
+    
 }
 ```
 
