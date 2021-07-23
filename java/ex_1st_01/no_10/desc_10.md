@@ -12,6 +12,58 @@
 
 문자열 형태의 식 expression이 매개변수로 주어질 때, 식을 계산한 결과를 return 하도록 solution 메소드를 작성하려 합니다. 위 구조를 참고하여 코드가 올바르게 동작할 수 있도록 빈칸에 주어진 func_a, func_b, func_c 메소드와 매개변수를 알맞게 채워주세요.
 
+### 초기 코드
+
+```
+class Solution {
+    class Pair{
+        public int firstNum;
+        public int secondNum;
+    }
+    
+    public int func_a(int numA, int numB, char exp){
+        if (exp == '+')
+            return numA + numB;
+        else if (exp == '-')
+            return numA - numB;
+        else
+            return numA * numB;
+    }
+    
+    public int func_b(String exp){
+        for(int i = 0; i < exp.length(); i++){
+            char e = exp.charAt(i);
+            if(e == '+' || e == '-' || e == '*')
+                return i;
+        }
+        return -1;
+    }
+    public Pair func_c(String exp, int idx){
+        Pair ret = new Pair();
+        ret.firstNum = Integer.parseInt(exp.substring(0, idx));
+        ret.secondNum = Integer.parseInt(exp.substring(idx + 1));
+        return ret;
+    }
+    
+    public int solution(String expression) {
+        int expIndex = func_@@@(@@@);
+        Pair numbers = func_@@@(@@@);
+        int result = func_@@@(@@@);
+        return result;
+    }
+
+    // The following is main method to output testcase.
+    public static void main(String[] args) {
+        Solution sol = new Solution();
+        String expression = "123+12";
+        int ret = sol.solution(expression);
+
+        // Press Run button to receive output. 
+        System.out.println("Solution: return value of the method is " + ret + " .");
+    }
+}
+```
+
 ---
 
 #### 매개변수 설명
