@@ -81,3 +81,9 @@ n-소용돌이 수의 대각선상에 존재하는 수들의 합을 return 해�
 ![image](http://res.cloudinary.com/sgc109/image/upload/c_scale,w_300/v1517462270/%EA%B7%B8%EB%A6%BC4_astq7q.png)
 
 1과 3을 더하여 4가 됩니다.
+
+---
+
+### → 정답 확인
+
+### [→ 다음 문제](https://github.com/tnehf18/cosPro/blob/main/java/ex_1st_01/no_03/desc_03.md "cosPro 1급 Java 1차 3번 문제")
