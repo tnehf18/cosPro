@@ -15,12 +15,12 @@ class Solution {
 
     boolean solution(String sentence){
         String str = "";
-        for(int i = 0; i < sentence.length(); i++){
+        for(int i = 0; i < sentence.length(); i++) {
             char c = sentence.charAt(i);
             if(c != ' ' || c != '.') str += c;
         }
         int len = str.length();
-        for(int i = 0; i < len / 2; i++){
+        for(int i = 0; i < len / 2; i++) {
             if(str.charAt(i) != str.charAt(len - 1 - i)) return false;
         }
         return true;
@@ -80,3 +80,9 @@ class Solution {
 예시 #2
 
 문장의 맨 앞 문자인 "p"와 맨 뒤 문자인 "e"가 다르므로 팰린드롬이 아닙니다.
+
+---
+
+### → 정답 확인
+
+### [→ 다음 문제](https://github.com/tnehf18/cosPro/blob/main/java/ex_2nd_01/no_09/desc_09.md "cosPro 2급 Java 1차 9번 문제")
