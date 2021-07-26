@@ -53,3 +53,9 @@ class Solution {
 #### 예시 설명
 
 9,949,999에 1을 더하면 9,950,000이지만 0은 존재하지 않으므로 9,951,111이 됩니다.
+
+---
+
+### → 정답 확인
+
+### [→ 다음 문제](https://github.com/tnehf18/cosPro/blob/main/java/ex_1st_01/no_02/desc_02.md "cosPro 1급 Java 1차 2번 문제")
