@@ -82,3 +82,9 @@ solution 메소드는 계단 게임을 마친 후에 A가 계단 위 몇 번째 
 | recordA | 보   | 가위 | 가위 | 가위 | 가위 | 가위 | 바위 | 바위 | 가위 | 가위 |
 | recordB | 가위 | 가위 | 가위 | 가위 | 보   | 보   | 가위 | 보   | 보   | 보   |
 | result   | 0    | 0    | 0    | 0    | +3   | +6   | +9   | +8   | +11  | +14  |
+
+---
+
+### → 정답 확인
+
+### [→ 다음 문제](https://github.com/tnehf18/cosPro/blob/main/java/ex_1st_01/no_07/desc_07.md "cosPro 1급 Java 1차 7번 문제")
