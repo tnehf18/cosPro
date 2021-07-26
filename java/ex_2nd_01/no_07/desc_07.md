@@ -60,3 +60,9 @@ class Solution {
 
 650점 이상 800점 미만의 성적을 취득한 학생이 수강대상이므로, 800점을 취득한 학생은 수강대상이 아닙니다.
 따라서, 6명이 수강 대상입니다.
+
+---
+
+### → 정답 확인
+
+### [→ 다음 문제](https://github.com/tnehf18/cosPro/blob/main/java/ex_2nd_01/no_08/desc_08.md "cosPro 2급 Java 1차 8번 문제")
