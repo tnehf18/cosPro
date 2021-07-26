@@ -70,3 +70,9 @@ class Solution {
 ![image](https://s3.ap-northeast-2.amazonaws.com/grepp-cloudfront/programmers_imgs/challengeable-imgs/20180315_knight3.png)
 
 따라서, 3을 return 하면 됩니다.
+
+---
+
+### → 정답 확인
+
+### [→ 다음 문제](https://github.com/tnehf18/cosPro/blob/main/java/ex_1st_01/no_04/desc_04.md "cosPro 1급 Java 1차 4번 문제")
