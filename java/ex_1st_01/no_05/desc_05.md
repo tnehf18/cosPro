@@ -101,3 +101,9 @@ class Solution {
 예시 #2
 
 1번 후보가 1표, 2번 후보가 2표, 3번 후보가 2표씩 받았습니다. 2번과 3번 후보가 공동으로 가장 많은 표를 받았기 때문에 [2, 3]을 오름차순 정렬하여 return 하면 됩니다.
+
+---
+
+### → 정답 확인
+
+### [→ 다음 문제](https://github.com/tnehf18/cosPro/blob/main/java/ex_1st_01/no_06/desc_06.md "cosPro 1급 Java 1차 6번 문제")
