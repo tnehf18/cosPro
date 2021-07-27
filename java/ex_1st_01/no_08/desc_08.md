@@ -124,3 +124,9 @@ class Solution {
 | orderList                          | return |
 |-------------------------------------|--------|
 | ["Cheese", "Pineapple", "Meatball"] | 51600  |
+
+---
+
+### → 정답 확인
+
+### [→ 다음 문제](https://github.com/tnehf18/cosPro/blob/main/java/ex_1st_01/no_09/desc_09.md "cosPro 1급 Java 1차 9번 문제")
