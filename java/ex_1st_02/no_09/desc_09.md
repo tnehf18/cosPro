@@ -71,3 +71,9 @@ class Solution {
 
 예시 #2
 "cba"가 연속된 3자리 문자열이므로 주어진 규칙에 맞지 않습니다.
+
+---
+
+### → 정답 확인
+
+### [→ 다음 문제](https://github.com/tnehf18/cosPro/blob/main/java/ex_1st_02/no_10/desc_10.md "cosPro 1급 Java 2차 10번 문제")
