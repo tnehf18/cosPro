@@ -29,7 +29,7 @@ class Solution {
 
     public int func_a(int n) {
         int ret = 1;
-        while(n > 0){
+        while(n > 0) {
             ret *= 10;
             n--;
         }
@@ -38,7 +38,7 @@ class Solution {
 
     int func_b(int n) {
         int ret = 0;
-        while(n > 0){
+        while(n > 0) {
             ret++;
             n /= 10;
         }
@@ -47,7 +47,7 @@ class Solution {
     
     int func_c(int n) {
         int ret = 0;
-        while(n > 0){
+        while(n > 0) {
             ret += n%10;
             n /= 10;
         }
@@ -56,7 +56,7 @@ class Solution {
     
 	public int solution(int num) {
         int nextNum = num;
-        while(true){
+        while(true) {
             nextNum++;
             int length = func_@@@(@@@);
             if(length % 2 != 0)
@@ -143,3 +143,9 @@ class Solution {
 * 4 + 0 + 6 = 10
 
 따라서 경품을 받기 위해 최소 20개의 글을 더 작성하면 됩니다.
+
+---
+
+### → 정답 확인
+
+### [→ 다음 문제](https://github.com/tnehf18/cosPro/blob/main/java/ex_1st_02/no_04/desc_04.md "cosPro 1급 Java 2차 4번 문제")
