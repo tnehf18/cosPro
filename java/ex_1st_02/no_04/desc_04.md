@@ -65,3 +65,9 @@ class Solution {
 * 1 + 3 + 5 = 9
 * 2 + 3 + 4 = 9
 * 3 + 4 + 5 = 12
+
+---
+
+### → 정답 확인
+
+### [→ 다음 문제](https://github.com/tnehf18/cosPro/blob/main/java/ex_1st_02/no_05/desc_05.md "cosPro 1급 Java 2차 5번 문제")
