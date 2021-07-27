@@ -25,7 +25,7 @@ class Solution {
                 answer[idx] = arr[left];
                 left += 1;
             }
-            else{
+            else {
                 answer[idx] = arr[right];
                 right -= 1;
             }
@@ -80,3 +80,9 @@ class Solution {
 | [3, 4]             | [1, 6, 2, 5]       |
 | [4]                | [1, 6, 2, 5, 3]    |
 | [ ]                 | [1, 6, 2, 5, 3, 4] |
+
+---
+
+### → 정답 확인
+
+### [→ 다음 문제](https://github.com/tnehf18/cosPro/blob/main/java/ex_1st_02/no_09/desc_09.md "cosPro 1급 Java 2차 9번 문제")
