@@ -121,3 +121,9 @@ k번째로 큰 팰린드롬 문자열을 return 해주세요.
 예시 #2
 
 "ccddcc"의 부분 문자열 중 팰린드롬인 문자열을 사전 순으로 나열하면 "c", "cc", "ccddcc", "cddc", "d", "dd" 입니다. 팰린드롬인 문자열이 총 6개이므로, 7번째로 큰 팰린드롬은 없습니다. 따라서, "NULL"을 return 합니다.
+
+---
+
+### → 정답 확인
+
+### [→ 다음 문제](https://github.com/tnehf18/cosPro/blob/main/java/ex_1st_03/no_03/desc_03.md "cosPro 1급 Java 3차 3번 문제")
