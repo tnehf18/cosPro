@@ -119,3 +119,9 @@ arrA 배열을 오른쪽으로 2칸 회전하면 arrB와 같아집니다.
 예시 #2
 
 arrA 배열은 회전해도 arrB와 같아질 수 없습니다.
+
+---
+
+### → 정답 확인
+
+### [→ 다음 문제](https://github.com/tnehf18/cosPro/blob/main/java/ex_1st_03/no_02/desc_02.md "cosPro 1급 Java 3차 2번 문제")
