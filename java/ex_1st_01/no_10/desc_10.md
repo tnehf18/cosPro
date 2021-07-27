@@ -17,7 +17,7 @@
 ```
 class Solution {
 
-    class Pair{
+    class Pair {
         public int firstNum;
         public int secondNum;
     }
@@ -93,3 +93,7 @@ expression을 계산한 결과를 return 해주세요.
 #### 예시 설명
 
 '+'를 기준으로 앞의 숫자는 123이고 뒤의 숫자는 12이므로 두 숫자를 더하면 135가 됩니다.
+
+---
+
+### → 정답 확인
