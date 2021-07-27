@@ -86,3 +86,9 @@ class Solution {
 * `0`0`1`1 0
 
 위와 같이 첫 번째와 세 번째 문자가 서로 다르므로, 해밍 거리는 2가 됩니다.
+
+---
+
+### → 정답 확인
+
+### [→ 다음 문제](https://github.com/tnehf18/cosPro/blob/main/java/ex_1st_01/no_10/desc_10.md "cosPro 1급 Java 1차 10번 문제")
