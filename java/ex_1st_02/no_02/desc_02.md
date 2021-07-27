@@ -98,3 +98,9 @@ class Solution {
 예시 #2
 
 현재 시각은 15:31이며, 15:31분에 도착하는 지하철에 탑승할 수 있습니다. 따라서 0분만 기다리면 됩니다.
+
+---
+
+### → 정답 확인
+
+### [→ 다음 문제](https://github.com/tnehf18/cosPro/blob/main/java/ex_1st_02/no_03/desc_03.md "cosPro 1급 Java 2차 3번 문제")
