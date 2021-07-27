@@ -64,3 +64,9 @@ s1과 s2를 붙여서 만들 수 있는 문자열 중, 가장 짧은 문자열�
 
 #### 예시 설명
 문제에 주어진 예시와 같습니다.
+
+---
+
+### → 정답 확인
+
+### [→ 다음 문제](https://github.com/tnehf18/cosPro/blob/main/java/ex_1st_03/no_05/desc_05.md "cosPro 1급 Java 3차 5번 문제")
