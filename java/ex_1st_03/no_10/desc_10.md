@@ -49,7 +49,7 @@ class Solution {
         public Shop() {
             this.reserveList = new ArrayList<Customer>();
         }
-        public boolean reserve(Customer customer){
+        public boolean reserve(Customer customer) {
             reserveList.add(customer);
             return true;
         }
