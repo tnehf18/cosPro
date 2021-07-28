@@ -102,4 +102,4 @@ n을 서로 다른 소수 3개의 합으로 표현하는 방법의 수를 return
 
 ### → 정답 확인
 
-### [→ 다음 문제](https://github.com/tnehf18/cosPro/blob/main/java/ex_1st_03/no_07/desc_06.md "cosPro 1급 Java 3차 7번 문제")
+### [→ 다음 문제](https://github.com/tnehf18/cosPro/blob/main/java/ex_1st_03/no_07/desc_07.md "cosPro 1급 Java 3차 7번 문제")
