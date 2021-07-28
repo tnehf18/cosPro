@@ -74,3 +74,9 @@ solution 메소드는 화면에 보이는 문자열을 return 합니다.
 
 #### 예시 설명
 화면 처음상태인 "______________"에서 3초가 지나면 화면에는 글자 3개가 왼쪽으로 옮겨진 상태인 "___________hap"가 보입니다.
+
+---
+
+### → 정답 확인
+
+### [→ 다음 문제](https://github.com/tnehf18/cosPro/blob/main/java/ex_1st_03/no_06/desc_06.md "cosPro 1급 Java 3차 6번 문제")
