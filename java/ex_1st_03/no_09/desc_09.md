@@ -81,3 +81,9 @@ class Solution {
 예시 #2
 
 1일간 매출액 합이 최대가 되는 경우는 [5]입니다. 따라서 최대 매출액은 5입니다.
+
+---
+
+### → 정답 확인
+
+### [→ 다음 문제](https://github.com/tnehf18/cosPro/blob/main/java/ex_1st_03/no_10/desc_10.md "cosPro 1급 Java 3차 10번 문제")
