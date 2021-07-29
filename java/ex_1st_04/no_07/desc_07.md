@@ -115,6 +115,7 @@ class Solution {
     // 아래는 테스트케이스 출력을 해보기 위한 main 메소드입니다.
     public static void main(String[] args) {
         Solution sol = new Solution();
+        
         int monsterAttackPoint = 100;
         int warriorAttackPoint = 90;
         int healingPoint = 30;
