@@ -176,3 +176,9 @@ class Solution {
 | 940        | 930       | 900       |
 
 따라서 [940, 930, 900]을 return 하면 됩니다.
+
+---
+
+### → 정답 확인
+
+### [→ 다음 문제](https://github.com/tnehf18/cosPro/blob/main/java/ex_1st_04/no_08/desc_08.md "cosPro 1급 Java 4차 8번 문제")
