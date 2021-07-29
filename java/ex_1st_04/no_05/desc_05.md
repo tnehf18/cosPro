@@ -78,3 +78,9 @@ solution 메소드는 n번째 수를 문자열 형태로 return 합니다.
 다섯 번째 숫자: 53124
 
 따라서 답은 "53124"입니다.
+
+---
+
+### → 정답 확인
+
+### [→ 다음 문제](https://github.com/tnehf18/cosPro/blob/main/java/ex_1st_04/no_06/desc_06.md "cosPro 1급 Java 4차 6번 문제")
