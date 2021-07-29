@@ -93,3 +93,9 @@ public class Solution {
 예시 #2
 
 “AAAE”는 열 번째에 나옵니다.
+
+---
+
+### → 정답 확인
+
+### [→ 다음 문제](https://github.com/tnehf18/cosPro/blob/main/java/ex_1st_04/no_01/desc_01.md "cosPro 1급 Java 3차 2번 문제")
