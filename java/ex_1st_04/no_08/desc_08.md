@@ -80,3 +80,9 @@ class Solution {
 예시 #2
 
 숫자 카드를 조합하면 [1112, 1121, 1211, 2111]를 만들 수 있습니다. 따라서 1122는 만들 수 없습니다.
+
+---
+
+### → 정답 확인
+
+### [→ 다음 문제](https://github.com/tnehf18/cosPro/blob/main/java/ex_1st_04/no_09/desc_09.md "cosPro 1급 Java 4차 9번 문제")
