@@ -61,3 +61,9 @@ hour 시 minute 분에 아날로그 시계의 시침과 분침이 몇 도를 이
 #### 예시 설명
 
 앞서 설명한 예와 같습니다.
+
+---
+
+### → 정답 확인
+
+### [→ 다음 문제](https://github.com/tnehf18/cosPro/blob/main/java/ex_1st_04/no_10/desc_10.md "cosPro 1급 Java 4차 10번 문제")
