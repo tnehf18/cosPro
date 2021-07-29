@@ -31,10 +31,10 @@ class Solution {
         ArrayList<Integer> ret = new ArrayList<Integer>();
         boolean [] exist = new boolean[n * n + 1];
         Arrays.fill(exist, false);
-        for (int i = 0; i < n; i ++)
+        for (int i = 0; i < n; i++)
             for (int j = 0; j < n; j++)
                     exist[matrix[i][j]] = true;
-        for (int i = 1; i <= n * n;a i++)
+        for (int i = 1; i <= n * n; i++)
             if (exist[i] == false)
                 ret.add(i);
         return ret;
@@ -149,3 +149,9 @@ class Solution {
 위 그림에서 빈칸은 (4, 1)과 (2, 4)입니다. 각 칸에 4와 8을 채우면 마방진이 완성됩니다. 따라서 [작은 숫자의 행 번호, 작은 숫자의 열 번호, 작은 숫자, 큰 숫자의 행 번호, 큰 숫자의 열 번호, 큰 숫자]를 return 해야 합니다. 답은 [4, 1, 4, 2, 4, 8]입니다.
 
   ![KakaoTalk_Photo_2018-09-15-18-01-27 (1).png](https://grepp-programmers.s3.amazonaws.com/files/ybm/07b49bd9cc/06b0e5b9-27ba-49e7-9782-089ca97cd15b.png)
+
+---
+
+### → 정답 확인
+
+### [→ 다음 문제](https://github.com/tnehf18/cosPro/blob/main/java/ex_1st_04/no_05/desc_05.md "cosPro 1급 Java 4차 5번 문제")
