@@ -94,3 +94,9 @@ oneDayPrice, multiDay, multiDayPrice, n이 순서대로 solution 메소드의 �
 1일 이용권은 2원, 3일 이용권은 5원입니다. 정확히 11일 동안 스키장을 이용할 때 드는 최소 비용은 다음과 같습니다.
 
 * 1일 이용권 x 2장 + 3일 이용권 x 3 장 → 2 x 2원 + 3 x 5원 = 19원
+
+---
+
+### → 정답 확인
+
+### [→ 다음 문제](https://github.com/tnehf18/cosPro/blob/main/java/ex_1st_04/no_04/desc_04.md "cosPro 1급 Java 4차 4번 문제")
