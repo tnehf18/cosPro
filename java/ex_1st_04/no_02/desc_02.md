@@ -19,7 +19,7 @@ class Solution {
         char previous = s.charAt(0);
         int counter = 1;
         
-        for(int i=1; i<s.length(); i++){
+        for(int i=1; i<s.length(); i++) {
             if(s.charAt(i) == previous)
                 counter++;
             else {
@@ -37,6 +37,7 @@ class Solution {
     // 아래는 테스트케이스 출력을 해보기 위한 코드입니다. 아래에는 잘못된 부분이 없으니, 위의 코드만 수정하세요.
     public static void main(String[] args) {
         Solution sol = new Solution();
+        
         String s = new String("YYYYYbbbBbbBBBMmmM");
         String ret = sol.solution(s);
         
@@ -77,3 +78,9 @@ s를 압축한 결과를 return 해주세요.
 예시 #1
 
 문제의 예와 같습니다.
+
+---
+
+### → 정답 확인
+
+### [→ 다음 문제](https://github.com/tnehf18/cosPro/blob/main/java/ex_1st_04/no_03/desc_03.md "cosPro 1급 Java 4차 3번 문제")
