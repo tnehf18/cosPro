@@ -78,4 +78,4 @@ class Solution {
 
 ### → 정답 확인
 
-### [→ 다음 문제](https://github.com/tnehf18/cosPro/blob/main/java/ex_1st_05/no_02/desc_02.md "cosPro 1급 Java 5차 2번 문제")
+### [→ 다음 문제](https://github.com/tnehf18/cosPro/blob/main/java/ex_1st_05/no_03/desc_03.md "cosPro 1급 Java 5차 3번 문제")
