@@ -92,3 +92,9 @@ class Solution {
 6. 3계단 + 1계단
 7. 2계단 + 2계단
 ```
+
+---
+
+### → 정답 확인
+
+### [→ 다음 문제](https://github.com/tnehf18/cosPro/blob/main/java/ex_1st_05/no_02/desc_02.md "cosPro 1급 Java 5차 2번 문제")
