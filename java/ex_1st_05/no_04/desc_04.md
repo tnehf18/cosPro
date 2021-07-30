@@ -76,3 +76,9 @@ class Solution {
 예시 #2
 
 662244는 6 두개 2 두개 4 두개로 이루어져 있기 때문에 "624222"로 읽습니다.
+
+---
+
+### → 정답 확인
+
+### [→ 다음 문제](https://github.com/tnehf18/cosPro/blob/main/java/ex_1st_05/no_05/desc_05.md "cosPro 1급 Java 5차 5번 문제")
