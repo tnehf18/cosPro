@@ -77,3 +77,9 @@ class Solution {
 입출력 예 #2
 
 캐릭터를 어떻게 보내도 모든 몬스터를 이길 수 있습니다.
+
+---
+
+### → 정답 확인
+
+### [→ 다음 문제](https://github.com/tnehf18/cosPro/blob/main/java/ex_1st_05/no_06/desc_06.md "cosPro 1급 Java 5차 6번 문제")
