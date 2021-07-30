@@ -11,11 +11,11 @@ import java.util.*;
 
 class Solution {
 
-	public void swap(int[] numbers, int i, int j) {
-		int tmp = numbers[i];
-		numbers[i] = numbers[j];
-		numbers[j] = tmp;
-	}
+    public void swap(int[] numbers, int i, int j) {
+        int tmp = numbers[i];
+	numbers[i] = numbers[j];
+	numbers[j] = tmp;
+    }
 
     public int[] solution(int[] numbers) {
         int[] answer = {};
@@ -27,9 +27,9 @@ class Solution {
         int left = mid + 1;
         int right = numbers.length - 1;
         while(left <= right) {
-        	swap(numbers, left, right);
-        	left = left + 1;
-        	right = right - 1;
+	    swap(numbers, left, right);
+	    left = left + 1;
+	    right = right - 1;
         }
 
         answer = numbers;
@@ -81,3 +81,9 @@ class Solution {
 #### 입출력 예 설명
 
 문제에 나온 예와 같습니다.
+
+---
+
+### → 정답 확인
+
+### [→ 다음 문제](https://github.com/tnehf18/cosPro/blob/main/java/ex_1st_05/no_04/desc_04.md "cosPro 1급 Java 5차 4번 문제")
