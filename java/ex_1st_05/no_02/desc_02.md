@@ -73,3 +73,9 @@ class Solution {
 아래와 같이 벽을 남겼을 때 물을 최대로 담을 수 있습니다. 이 때 최대 12리터를 담을 수 있습니다.
 
   ![스크린샷 2018-10-15 오전 9.33.16.png](https://grepp-programmers.s3.amazonaws.com/files/ybm/56a9ac8e95/6b389bed-936d-40d0-abe2-b89000409703.png)
+
+---
+
+### → 정답 확인
+
+### [→ 다음 문제](https://github.com/tnehf18/cosPro/blob/main/java/ex_1st_05/no_02/desc_02.md "cosPro 1급 Java 5차 2번 문제")
