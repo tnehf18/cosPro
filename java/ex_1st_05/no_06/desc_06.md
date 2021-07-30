@@ -64,3 +64,9 @@ p 진법으로 자연수를 담은 문자열 s1, s2와 두 수를 표현한 진�
 #### 예시 설명
 
 문제에 나온 예와 같습니다.
+
+---
+
+### → 정답 확인
+
+### [→ 다음 문제](https://github.com/tnehf18/cosPro/blob/main/java/ex_1st_05/no_07/desc_07.md "cosPro 1급 Java 5차 7번 문제")
