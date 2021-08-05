@@ -104,3 +104,9 @@ stack2가 비지 않았으므로 stack2에서 pop 한 결과인 4를 리턴합�
 
 1. stack2가 비었으므로 stack1의 원소를 전부 pop해 stack2로 넣습니다. 이 결과 stack2에는 [3,2,1]이 들어갑니다.
 2. stack2에서 pop한 결과인 1을 리턴합니다.
+
+---
+
+### → 정답 확인
+
+### [→ 다음 문제](https://github.com/tnehf18/cosPro/blob/main/java/ex_1st_06/no_10/desc_10.md "cosPro 1급 Java 6차 10번 문제")
