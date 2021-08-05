@@ -53,9 +53,9 @@ class Solution {
         answer = func_@@@(@@@);
         
         return answer;
-	}
+    }
 
-	// 아래는 테스트케이스 출력을 해보기 위한 main 메소드입니다.
+    // 아래는 테스트케이스 출력을 해보기 위한 main 메소드입니다.
     public static void main(String[] args) {
         Solution sol = new Solution();
         
@@ -94,3 +94,9 @@ class Solution {
 
 #### 예시 설명
 문제에 나온 예와 같습니다.
+
+---
+
+### → 정답 확인
+
+### [→ 다음 문제](https://github.com/tnehf18/cosPro/blob/main/java/ex_1st_05/no_09/desc_09.md "cosPro 1급 Java 5차 9번 문제")
