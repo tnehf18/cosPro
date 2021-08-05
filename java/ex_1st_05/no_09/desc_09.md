@@ -85,3 +85,9 @@ number를 target으로 만들려면 연산을 최소 몇 번 해야 하는지 re
 3. 12 - 1 = 11
 
 따라서 연산을 최소 3번 해야 합니다.
+
+---
+
+### → 정답 확인
+
+### [→ 다음 문제](https://github.com/tnehf18/cosPro/blob/main/java/ex_1st_05/no_10/desc_10.md "cosPro 1급 Java 5차 10번 문제")
