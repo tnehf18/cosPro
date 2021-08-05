@@ -142,3 +142,9 @@ class Solution {
 예제 #3
 
 부분 수열중 지그재그 수열이 없습니다.
+
+---
+
+### → 정답 확인
+
+### [→ 다음 문제](https://github.com/tnehf18/cosPro/blob/main/java/ex_1st_06/no_09/desc_09.md "cosPro 1급 Java 6차 9번 문제")
