@@ -76,3 +76,9 @@ class Solution {
 
 #### 예시 설명
 문제에 나온 예와 같습니다.
+
+---
+
+### → 정답 확인
+
+### [→ 다음 문제](https://github.com/tnehf18/cosPro/blob/main/java/ex_1st_06/no_06/desc_06.md "cosPro 1급 Java 6차 6번 문제")
