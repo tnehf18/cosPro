@@ -89,3 +89,9 @@ class Solution {
   ![ex2-1.jpg](https://grepp-programmers.s3.amazonaws.com/files/ybm/9911040aaf/db95217b-f1b7-4ab3-b932-d15133431346.jpg)
 
 따라서, 0일이 지나면 정원의 모든 꽃이 핍니다.
+
+---
+
+### → 정답 확인
+
+### [→ 다음 문제](https://github.com/tnehf18/cosPro/blob/main/java/ex_1st_06/no_02/desc_02.md "cosPro 1급 Java 6차 2번 문제")
