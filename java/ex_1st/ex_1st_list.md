@@ -9,7 +9,7 @@
 (수험자가 다른 알고리즘의 풀이법으로 함수를 작성하고 싶어도 빈칸 채우기 유형의 문제인 경우, 방법이 없음.)
 
 
-### 샘풀문제
+### 샘플문제
 
 * [Java 1급 1차](https://github.com/tnehf18/cosPro/blob/main/java/ex_1st/ex_1st_01/no_list.md "Java 1급 1차")
 * [Java 1급 2차](https://github.com/tnehf18/cosPro/blob/main/java/ex_1st/ex_1st_02/no_list.md "Java 1급 2차")
