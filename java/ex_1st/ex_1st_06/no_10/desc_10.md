@@ -152,4 +152,4 @@ class Solution {
 
 ### → 정답 확인
 
-### [→ 목록](https://github.com/tnehf18/cosPro/blob/main/java/ex_1st/ex_1st_06/no_listmd "cosPro 1급 Java 6차")
+### [→ 목록](https://github.com/tnehf18/cosPro/blob/main/java/ex_1st/ex_1st_06/no_list.md "cosPro 1급 Java 6차")
