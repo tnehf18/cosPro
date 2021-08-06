@@ -17,12 +17,12 @@ YBM에서 제공하는 COS Pro (코딩전문자격시험)의 샘플문제에 대
 |3급|50분|실기|10개 문항<br />(완성5, 부분5)|600점 이상|
 
 ### Java
-  - [Java 1급]( "Java 1급 샘플문제")
-  - [Java 2급]( "Java 2급 샘플문제")
+  - [Java 1급](https://github.com/tnehf18/cosPro/java/ex_1st/ex_1st_list.md "Java 1급 샘플문제")
+  - [Java 2급](https://github.com/tnehf18/cosPro/java/ex_2nd/ex_2nd_list.md "Java 2급 샘플문제")
 
 ### Python
-  - [Python 1급]( "Python 1급 샘플문제")
-  - [Python 2급]( "Python 2급 샘플문제")
+  - [Python 1급]()
+  - [Python 2급]()
 
 <br />
 
