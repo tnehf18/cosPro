@@ -86,4 +86,4 @@ n-소용돌이 수의 대각선상에 존재하는 수들의 합을 return 해�
 
 ### → 정답 확인
 
-### [→ 다음 문제](https://github.com/tnehf18/cosPro/blob/main/java/ex_1st_01/no_03/desc_03.md "cosPro 1급 Java 1차 3번 문제")
+### [→ 다음 문제](https://github.com/tnehf18/cosPro/blob/main/java/ex_1st/ex_1st_01/no_03/desc_03.md "cosPro 1급 Java 1차 3번 문제")
