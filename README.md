@@ -4,9 +4,9 @@
 
 YBM에서 제공하는 COS Pro (코딩전문자격시험)의 샘플문제에 대한 풀이입니다. COS Pro 자격에 관한 정보는 아래를 참조하시기 바랍니다.
 
-[COS Pro 소개](https://www.ybmit.com/cos_pro/cos_pro_info.jsp "COS Pro 소개")
+[COS Pro 소개](https://www.ybmit.com/cos_pro/cos_pro_info.jsp "COS Pro 소개"){:target="_blank"}
 
-[COS Pro 샘플문제](https://www.ybmit.com/cos_pro/cos_pro_r_test.jsp "COS Pro 소개")
+[COS Pro 샘플문제](https://www.ybmit.com/cos_pro/cos_pro_r_test.jsp "COS Pro 소개"){:target="_blank"}
 
 ## 합격기준
 
