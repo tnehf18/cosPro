@@ -1,4 +1,4 @@
-## Java 1급 1차
+## COS Pro 1급 Java 1차
 
 * [1번 문제](https://github.com/tnehf18/cosPro/edit/main/java/ex_1st/ex_1st_01/no_01/desc_01.md "COS Pro 1급 Java 1차 1번 문제")
 * [2번 문제](https://github.com/tnehf18/cosPro/blob/main/java/ex_1st/ex_1st_01/no_02/desc_02.md "COS Pro 1급 Java 1차 2번 문제")
