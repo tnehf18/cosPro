@@ -62,3 +62,5 @@ class Solution {
 ---
 
 ### → 정답 확인
+
+### [→ 목록](https://github.com/tnehf18/cosPro/blob/main/java/ex_1st/ex_1st_02/no_list.md "COS Pro 1급 Java 2차")
