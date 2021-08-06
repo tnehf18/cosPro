@@ -148,4 +148,4 @@ class Solution {
 
 ### → 정답 확인
 
-### [→ 다음 문제](https://github.com/tnehf18/cosPro/blob/main/java/ex_1st_02/no_04/desc_04.md "cosPro 1급 Java 2차 4번 문제")
+### [→ 다음 문제](https://github.com/tnehf18/cosPro/blob/main/java/ex_1st/ex_1st_02/no_04/desc_04.md "cosPro 1급 Java 2차 4번 문제")
