@@ -11,9 +11,9 @@
 
 ### 샘풀문제
 
-* [Java 1급 1차](https://github.com/tnehf18/cosPro/java/ex_1st/ex_1st_01/no_list.md "Java 1급 1차")
-* [Java 1급 2차](https://github.com/tnehf18/cosPro/java/ex_1st/ex_1st_02/no_list.md "Java 1급 2차")
-* [Java 1급 3차](https://github.com/tnehf18/cosPro/java/ex_1st/ex_1st_03/no_list.md "Java 1급 3차")
-* [Java 1급 4차](https://github.com/tnehf18/cosPro/java/ex_1st/ex_1st_04/no_list.md "Java 1급 4차")
-* [Java 1급 5차](https://github.com/tnehf18/cosPro/java/ex_1st/ex_1st_05/no_list.md "Java 1급 5차")
-* [Java 1급 6차](https://github.com/tnehf18/cosPro/java/ex_1st/ex_1st_06/no_list.md "Java 1급 6차")
+* [Java 1급 1차](https://github.com/tnehf18/cosPro/blob/main/java/ex_1st/ex_1st_01/no_list.md "Java 1급 1차")
+* [Java 1급 2차](https://github.com/tnehf18/cosPro/blob/main/java/ex_1st/ex_1st_02/no_list.md "Java 1급 2차")
+* [Java 1급 3차](https://github.com/tnehf18/cosPro/blob/main/java/ex_1st/ex_1st_03/no_list.md "Java 1급 3차")
+* [Java 1급 4차](https://github.com/tnehf18/cosPro/blob/main/java/ex_1st/ex_1st_04/no_list.md "Java 1급 4차")
+* [Java 1급 5차](https://github.com/tnehf18/cosPro/blob/main/java/ex_1st/ex_1st_05/no_list.md "Java 1급 5차")
+* [Java 1급 6차](https://github.com/tnehf18/cosPro/blob/main/java/ex_1st/ex_1st_06/no_list.md "Java 1급 6차")
