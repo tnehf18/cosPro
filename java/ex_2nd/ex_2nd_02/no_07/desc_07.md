@@ -72,3 +72,9 @@ unit이 "C" 이므로 주어진 value는 527℃를 나타냅니다. 이를 화�
 (섭씨온도 x 1.8) + 32 = (527 x 1.8) + 32 = 980.6
 
 따라서 환산 결과는 980.6℉이며, 정수 부분만 return 하면 되므로 980을 return 하면 됩니다.
+
+---
+
+### → 정답 확인
+
+### [→ 다음 문제](https://github.com/tnehf18/cosPro/blob/main/java/ex_2nd/ex_2nd_02/no_08/desc_08.md "cosPro 2급 Java 2차 8번 문제")
