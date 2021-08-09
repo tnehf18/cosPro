@@ -71,3 +71,9 @@ class Solution {
 * 4층 - 2층 (이동 거리 : 2)
 
 따라서 총 이동 거리는 7입니다.
+
+---
+
+### → 정답 확인
+
+### [→ 다음 문제](https://github.com/tnehf18/cosPro/blob/main/java/ex_2nd/ex_2nd_02/no_07/desc_07.md "cosPro 2급 Java 2차 7번 문제")
