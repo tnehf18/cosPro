@@ -32,44 +32,44 @@ class Solution {
 
     public int func_a(int[] currentGrade, int[] lastGrade, int[] rank, int maxDiffGrade) {
         int arrLength = currentGrade.length;
-	int count = 0;
-	for (int i = 0; i < arrLength; i++) {
-	    if (currentGrade[i] >= 80 && rank[i] <= arrLength / 10)
-	        count++;
-	    else if (currentGrade[i] >= 80 && rank[i] == 1)
-	        count++;
-	    else if (maxDiffGrade == currentGrade[i] - lastGrade[i])
-	        count++;
-	    }
-	    return count;
+        int count = 0;
+        for (int i = 0; i < arrLength; i++) {
+            if (currentGrade[i] >= 80 && rank[i] <= arrLength / 10)
+                count++;
+            else if (currentGrade[i] >= 80 && rank[i] == 1)
+                count++;
+            else if (maxDiffGrade == currentGrade[i] - lastGrade[i])
+                count++;
+        }
+        return count;
     }
 
     public int[] func_b(int[] currentGrade) {
         int arrLength = currentGrade.length;
-	int[] rank = new int[arrLength];
+        int[] rank = new int[arrLength];
         for (int i = 0; i < arrLength; i++)
             rank[i] = 1;
         for (int i = 0; i < arrLength; i++) 
-	     for (int j = 0; j < arrLength; j++) 
-	         if (currentGrade[i] < currentGrade[j]) 
-		     rank[i]++;
+            for (int j = 0; j < arrLength; j++) 
+                if (currentGrade[i] < currentGrade[j]) 
+                    rank[i]++;
         return rank;
     }
 
     public int func_c(int[] currentGrade, int[] lastGrade) {
         int maxDiffGrade = 1;
-	for (int i = 0; i < currentGrade.length; i++) {
-	    if (maxDiffGrade < currentGrade[i] - lastGrade[i])
-	        maxDiffGrade = currentGrade[i] - lastGrade[i];
+        for (int i = 0; i < currentGrade.length; i++) {
+            if (maxDiffGrade < currentGrade[i] - lastGrade[i])
+                maxDiffGrade = currentGrade[i] - lastGrade[i];
         }
-	return maxDiffGrade;
+        return maxDiffGrade;
     }
 
     public int solution(int[] currentGrade, int[] lastGrade) {
         int[] rank = func_@@@(@@@);
-	int maxDiffGrade = func_@@@(@@@);
-	int answer = func_@@@(@@@);
-	return answer;
+        int maxDiffGrade = func_@@@(@@@);
+        int answer = func_@@@(@@@);
+        return answer;
     }
 
     // 아래는 테스트케이스 출력을 해보기 위한 main 메소드입니다.
