@@ -20,7 +20,7 @@ class Solution {
 
     public int solution(int[] purchase) {
         int total = 0;
-        for(int i = 0; i < purchase.length; ++i){
+        for(int i = 0; i < purchase.length; ++i) {
             if(purchase[i] >= 1000000)
                 total += 50000;
             else if(purchase[i] >= 600000)
@@ -75,3 +75,9 @@ class Solution {
 * 1,000,000원을 구매한 고객에게 5만 원 상품권을 지급해야 합니다.
 
 따라서 지급해야 하는 상품권은 1만 원 상품권 2장, 3만 원 상품권 1장, 5만 원 상품권 1장으로, 총액은 10만 원 입니다.
+
+---
+
+### → 정답 확인
+
+### [→ 목록](https://github.com/tnehf18/cosPro/blob/main/java/ex_2nd/ex_2nd_02/no_list.md "cosPro 2급 Java 2차")
