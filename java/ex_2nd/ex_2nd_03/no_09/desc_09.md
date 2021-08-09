@@ -22,6 +22,7 @@ class Solution {
     // 아래는 테스트케이스 출력을 해보기 위한 main 메소드입니다. main 메소드는 잘못된 부분이 없으니, solution 메소드만 수정하세요.
     public static void main(String[] args) {
         Solution sol = new Solution();
+        
         int day = 17;
         int[] numbers = {3285, 1724, 4438, 2988, 3131, 2998};
         int ret = sol.solution(day, numbers);
