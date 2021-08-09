@@ -84,4 +84,4 @@ class Solution {
 
 ### → 정답 확인
 
-### [→ 목록](https://github.com/tnehf18/cosPro/blob/main/java/ex_2nd/ex_2nd_01/no_list.md "cosPro 2급 Java 1차)
+### [→ 목록](https://github.com/tnehf18/cosPro/blob/main/java/ex_2nd/ex_2nd_01/no_list.md "cosPro 2급 Java 1차")
