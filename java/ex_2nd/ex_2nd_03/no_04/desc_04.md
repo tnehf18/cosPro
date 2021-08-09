@@ -30,6 +30,7 @@ class Solution {
     // 아래는 테스트케이스 출력을 해보기 위한 main 메소드입니다.
     public static void main(String[] args) {
         Solution sol = new Solution();
+        
         String[] words = {new String("CODE"), new String("COED"), new String("CDEO")};
         String word = new String("CODE");
         int ret = sol.solution(words, word);
