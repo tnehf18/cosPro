@@ -76,3 +76,9 @@ class Solution {
 예시 #2
 
 길이가 5 이상인 단어가 없으므로 "empty"를 return 하면 됩니다.
+
+---
+
+### → 정답 확인
+
+### [→ 다음 문제](https://github.com/tnehf18/cosPro/blob/main/java/ex_2nd/ex_2nd_02/no_05/desc_05.md "cosPro 2급 Java 2차 5번 문제")
