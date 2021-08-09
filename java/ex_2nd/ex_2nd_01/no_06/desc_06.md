@@ -78,4 +78,4 @@ number가 solution 메소드의 매개변수로 주어집니다.
 
 ### → 정답 확인
 
-### [→ 다음 문제](https://github.com/tnehf18/cosPro/blob/main/java/ex_2nd_01/no_07/desc_07.md "cosPro 2급 Java 1차 7번 문제")
+### [→ 다음 문제](https://github.com/tnehf18/cosPro/blob/main/java/ex_2nd/ex_2nd_01/no_07/desc_07.md "cosPro 2급 Java 1차 7번 문제")
