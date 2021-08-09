@@ -56,3 +56,9 @@ N부터 M까지의 수 중에서 짝수인 수의 제곱의 합을 return 해주
 * 4^2 + 6^2 = 16 + 36 = 52
 
 따라서 52를 return 하면 됩니다.
+
+---
+
+### → 정답 확인
+
+### [→ 다음 문제](https://github.com/tnehf18/cosPro/blob/main/java/ex_2nd/ex_2nd_02/no_04/desc_04.md "cosPro 2급 Java 2차 4번 문제")
