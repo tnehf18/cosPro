@@ -58,3 +58,9 @@ number의 각 자릿수 중 소수는 몇 개인지 return 해주세요.
 | number   | return |
 |----------|--------|
 | 29022531 | 5      |
+
+---
+
+### → 정답 확인
+
+### [→ 다음 문제](https://github.com/tnehf18/cosPro/blob/main/java/ex_2nd/ex_2nd_02/no_09/desc_09.md "cosPro 2급 Java 2차 9번 문제")
