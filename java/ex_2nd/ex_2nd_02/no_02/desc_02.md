@@ -92,3 +92,9 @@ class Solution {
 * 5의 배수 : 10, 15, 20, 25
 
 3의 배수는 5개, 5의 배수는 4개이므로 3의 배수가 더 많습니다. 따라서 "three"를 return 합니다.
+
+---
+
+### → 정답 확인
+
+### [→ 다음 문제](https://github.com/tnehf18/cosPro/blob/main/java/ex_2nd/ex_2nd_02/no_03/desc_03.md "cosPro 2급 Java 2차 3번 문제")
