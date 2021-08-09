@@ -81,3 +81,9 @@ class Solution {
 오른손 장갑 : 1번 장갑 1개, 2번 장갑 2개, 4번 장갑 2개, 7번 장갑 1개가 있습니다.
 
 따라서 1번 장갑 한 쌍, 2번 장갑 두 쌍, 4번 장갑 한 쌍을 만들면 최대 4개의 장갑 쌍을 만들 수 있습니다.
+
+---
+
+### → 정답 확인
+
+### [→ 다음 문제](https://github.com/tnehf18/cosPro/blob/main/java/ex_2nd/ex_2nd_02/no_02/desc_02.md "cosPro 2급 Java 2차 2번 문제")
