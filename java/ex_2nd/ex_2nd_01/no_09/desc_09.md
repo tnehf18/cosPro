@@ -58,4 +58,4 @@ characters에서 연속하는 중복 문자를 제거한 문자열을 return 해
 
 ### → 정답 확인
 
-### [→ 다음 문제](https://github.com/tnehf18/cosPro/blob/main/java/ex_2nd_01/no_10/desc_10.md "cosPro 2급 Java 1차 10번 문제")
+### [→ 다음 문제](https://github.com/tnehf18/cosPro/blob/main/java/ex_2nd/ex_2nd_01/no_10/desc_10.md "cosPro 2급 Java 1차 10번 문제")
