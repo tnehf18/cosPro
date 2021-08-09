@@ -70,3 +70,9 @@ K 표를 받은 후보는 몇 명인지 return 해주세요.
 * 5번 후보 : 4표
 
 따라서 2표를 받은 후보는 1번, 3번 후보로 총 2명입니다.
+
+---
+
+### → 정답 확인
+
+### [→ 다음 문제](https://github.com/tnehf18/cosPro/blob/main/java/ex_2nd/ex_2nd_02/no_10/desc_10.md "cosPro 2급 Java 2차 10번 문제")
