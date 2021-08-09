@@ -27,6 +27,7 @@ class Solution {
     // 아래는 테스트케이스 출력을 해보기 위한 main 메소드입니다.
     public static void main(String[] args) {
         Solution sol = new Solution();
+        
         int tileLength1 = 11;
         String ret1 = sol.solution(tileLength1);
 
@@ -63,7 +64,7 @@ class Solution {
 #### 예시
 
 | tileLength |answer |
-|:---|:---:|------|:--------:|--------:|
+|------|------|
 |11| "RRRGGBRRRGG"|
 |16| "-1"|
 
