@@ -11,7 +11,7 @@ class Solution {
 
     public int solution(int attack, int recovery, int hp) {
         int count = 0;
-        while(true){
+        while(true) {
             count += @@@;
             hp -= @@@;
             if(hp <= 0)
@@ -74,3 +74,9 @@ class Solution {
 | 몬스터     | 공격 -30 | -10       |
 
 따라서 최소 3번 공격해야 몬스터를 잡을 수 있습니다.
+
+---
+
+### → 정답 확인
+
+### [→ 다음 문제](https://github.com/tnehf18/cosPro/blob/main/java/ex_2nd/ex_2nd_02/no_06/desc_06.md "cosPro 2급 Java 2차 6번 문제")
