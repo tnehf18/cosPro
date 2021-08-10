@@ -13,6 +13,7 @@
 import java.util.Arrays;
 
 class Solution {
+
     public int[] solution(String[] schedule) {
         int xCount = 0;
         for(int i=0; i<10; i++)
