@@ -15,8 +15,8 @@ class Solution {
         int answer = 0;
 
         for(int i = 0; i < boxes.length; i++) 
-        	if(@@@)
-        		answer++;
+	    if(@@@)
+	        answer++;
         	
         return answer;
     }
