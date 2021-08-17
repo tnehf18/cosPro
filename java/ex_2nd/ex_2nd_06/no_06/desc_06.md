@@ -20,12 +20,12 @@ class Solution {
 
         int capitalCount = 0, smallCount = 0, digitCount = 0;
         for(int i = 0; i < password.length(); i++) {
-        	if(password.charAt(i) >= 'A' && password.charAt(i) <= 'Z')
-			capitalCount++;
-		else if(password.charAt(i) >= 'a' && password.charAt(i) <= 'z')
-			smallCount++;
-		else if(password.charAt(i) >= @@@ && password.charAt(i) <= @@@)
-			digitCount++;
+            if(password.charAt(i) >= 'A' && password.charAt(i) <= 'Z')
+                capitalCount++;
+            else if(password.charAt(i) >= 'a' && password.charAt(i) <= 'z')
+                smallCount++;
+            else if(password.charAt(i) >= @@@ && password.charAt(i) <= @@@)
+                digitCount++;
         }
 
         if(@@@)
