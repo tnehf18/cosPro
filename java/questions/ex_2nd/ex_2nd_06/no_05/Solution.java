@@ -7,9 +7,9 @@ class Solution {
 
         int emptyBottle = answer = money / price;
         while(n <= emptyBottle) {
-        	emptyBottle = emptyBottle - n;
-        	answer++;
-        	emptyBottle++;
+            emptyBottle = emptyBottle - n;
+            answer++;
+            emptyBottle++;
         }
         
         return answer;
