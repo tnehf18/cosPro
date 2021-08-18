@@ -55,7 +55,7 @@ public class Solution {
                 String subStr = s.substring(startIdx, startIdx + cnt);
                 if (func_@@@(@@@)) {
                     if (func_@@@(@@@) == false)
-                	    palindromes.add(subStr);
+                        palindromes.add(subStr);
                 }
             }
         }
