@@ -7,6 +7,8 @@
 ### 초기 코드
 
 ```
+import java.util.*;
+
 class Solution {
 
     public void swap(int[] numbers, int i, int j) {
@@ -44,9 +46,9 @@ class Solution {
     	// [실행] 버튼을 누르면 출력 값을 볼 수 있습니다.
     	System.out.print("solution 메소드의 반환 값은 {");
     	for(int i = 0; i < ret.length; i++) {
-    		if(i != 0)
-    			System.out.print(", ");
-    		System.out.print(ret[i]);
+            if(i != 0)
+                System.out.print(", ");
+            System.out.print(ret[i]);
     	}
     	System.out.println("} 입니다.");
     }
