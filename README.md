@@ -19,8 +19,8 @@ YBM에서 제공하는 COS Pro (코딩전문자격시험)의 샘플문제에 대
 ## 문제풀이
 
 ### Java
-  - [Java 1급](https://github.com/tnehf18/cosPro/blob/main/java/ex_1st/ex_1st_list.md "Java 1급 샘플문제")
-  - [Java 2급](https://github.com/tnehf18/cosPro/blob/main/java/ex_2nd/ex_2nd_list.md "Java 2급 샘플문제")
+  - [Java 1급](https://github.com/tnehf18/cosPro/blob/main/java/ex_1st/ "Java 1급 샘플문제")
+  - [Java 2급](https://github.com/tnehf18/cosPro/blob/main/java/ex_2nd/ "Java 2급 샘플문제")
 
 ### Python
   - [Python 1급]()
