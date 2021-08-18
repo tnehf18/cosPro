@@ -20,6 +20,8 @@
 ### 초기 코드
 
 ```
+import java.util.*;
+
 public class Solution {
 
     public boolean func_a(ArrayList<String> list, String s) {
@@ -40,9 +42,9 @@ public class Solution {
     public String func_c(ArrayList<String> palindromes, int k) {
         Collections.sort(palindromes);
         if (palindromes.size() < k)
-        	return "NULL";
+            return "NULL";
         else
-        	return palindromes.get(k-1);
+            return palindromes.get(k-1);
     }
 
     public String solution(String s, int k) {
@@ -52,8 +54,8 @@ public class Solution {
             for (int cnt = 1; cnt < length - startIdx + 1; cnt++) {
                 String subStr = s.substring(startIdx, startIdx + cnt);
                 if (func_@@@(@@@)) {
-                	if (func_@@@(@@@) == false)
-                		palindromes.add(subStr);
+                    if (func_@@@(@@@) == false)
+                	    palindromes.add(subStr);
                 }
             }
         }
