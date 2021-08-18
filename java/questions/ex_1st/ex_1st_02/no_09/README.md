@@ -27,7 +27,7 @@ class Solution {
     public static void main(String[] args) {
         Solution sol = new Solution();
         
-        String password1 = "COS Pro890";
+        String password1 = "cospro890";
         boolean ret1 = sol.solution(password1);
 
         // [실행] 버튼을 누르면 출력 값을 볼 수 있습니다.
@@ -62,7 +62,7 @@ class Solution {
 
 | password    | return |
 |-------------|--------|
-| "COS Pro890" | true   |
+| "cospro890" | true   |
 | "cba323"    | false  |
 
 #### 예시 설명
