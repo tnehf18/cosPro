@@ -12,7 +12,8 @@ solution 메소드의 매개변수로 p 진법 자연수를 담은 문자열 s1,
 // 다음과 같이 import를 사용할 수 있습니다.
 import java.util.*;
 
-class Solution {	
+class Solution {
+
     public String solution(String s1, String s2, int p, int q) {
         // 여기에 코드를 작성해주세요.
         String answer = "";
