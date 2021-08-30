@@ -11,7 +11,7 @@ class Solution {
         for (int i = 3; i <= n; i += 2) {
             boolean isPrime = true;
             for (int j = 2; j < i; j++)
-                if (i % j == 0){
+                if (i % j == 0) {
                     isPrime = false;
                     break;
                 }

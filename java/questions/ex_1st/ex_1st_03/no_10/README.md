@@ -87,7 +87,7 @@ class Solution {
     }
     
     class Restaurant @@@ {
-        public Restaurant(){
+        public Restaurant() {
             super();
         }
         

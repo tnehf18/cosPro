@@ -23,7 +23,7 @@ class Solution {
                 maxVal = voteCounter[i];
                 cnt = 1;
             }
-            else if(maxVal == voteCounter[i]){
+            else if(maxVal == voteCounter[i]) {
                 cnt += 1;
             }
         }
