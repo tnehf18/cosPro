@@ -15,7 +15,7 @@
 ```
 class Solution {
 
-    public int func_a(int month, int day){
+    public int func_a(int month, int day) {
         int monthList[] = {31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31};
         int total = 0;
         for(int i = 0; i @@@; i++)

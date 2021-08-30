@@ -4,7 +4,7 @@ import java.util.*;
 
 class Solution {
 
-    boolean solution(String sentence){
+    boolean solution(String sentence) {
         String str = "";
         for(int i = 0; i < sentence.length(); i++) {
             char c = sentence.charAt(i);

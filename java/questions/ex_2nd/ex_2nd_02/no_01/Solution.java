@@ -4,7 +4,7 @@ class Solution {
 
     final int maxProductNumber = 10;
     
-    public int[] func_a(int[] gloves){
+    public int[] func_a(int[] gloves) {
         int[] counter = new int[maxProductNumber + 1];
         for(int i = 0; i < gloves.length; i++)
             @@@
