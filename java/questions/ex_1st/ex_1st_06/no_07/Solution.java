@@ -5,7 +5,7 @@ class Solution {
     public int solution(int K, int[] numbers, String[] UpDown) {
         int left = 1;
         int right = K;
-        for(int i = 0; i < numbers.length; i++){
+        for(int i = 0; i < numbers.length; i++) {
             int num = numbers[i];
             if(UpDown[i].equals("UP"))
                 left = @@@;
