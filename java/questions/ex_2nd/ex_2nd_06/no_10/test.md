@@ -16,7 +16,7 @@
 class Solution {
 
     public String[] solution(int[] scores) {
-        int[] answer = {};        	
+        String[] answer = {};        	
         return answer;
     }
     
