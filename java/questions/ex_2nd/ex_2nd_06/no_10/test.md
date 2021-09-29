@@ -25,7 +25,7 @@ class Solution {
         Solution sol = new Solution();
 
         int[] scores = {91, 52, 88, 76, 82, 71, 90};
-        String[] ret = sol.solution();
+        String[] ret = sol.solution(scroes);
 
         // [실행] 버튼을 누르면 출력 값을 볼 수 있습니다.
         System.out.println("solution 메소드의 반환 값은 " + Arrays.toString(ret) + " 입니다.");
